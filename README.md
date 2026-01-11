@@ -5,18 +5,15 @@ This project demonstrates end-to-end Excel data analysis skills by building a **
 The project focuses on **data cleaning, pivot table analysis, and dashboard creation** to derive meaningful insights for decision-making.
 
 ---
-
 ## 📂 Project Structure
-
-```text
 excel-sales-dashboard/
-├── Sales_Dashboard.xlsx
-├── README.md
-└── screenshots/
-    ├── dashboard.jpeg
-    ├── pivot1.jpeg
-    ├── pivot2.jpeg
-    └── pivot3.jpeg
+- ├── Sales_Dashboard.xlsx
+- ├── README.md
+- └── screenshots/
+    - ├── dashboard.jpeg
+    - ├── pivot1.jpeg
+    - ├── pivot2.jpeg
+    - └── pivot3.jpeg
 ---
 
 ## 📊 Dataset Description
@@ -123,4 +120,4 @@ The dashboard allows dynamic filtering and quick insights.
 - **Sales_Dashboard.xlsx**  
   Contains the cleaned dataset, pivot tables, charts, and final dashboard.
 
-
+---
