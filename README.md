@@ -7,16 +7,16 @@ The project focuses on **data cleaning, pivot table analysis, and dashboard crea
 ---
 
 ## 📂 Project Structure
+
+```text
 excel-sales-dashboard/
-│── Sales_Dashboard.xlsx
-│── README.md
-│── screenshots/
-│ ├── dashboard.jpeg
-│ ├── pivot1.jpeg
-│ ├── pivot2.jpeg
-│ └── pivot3.jpeg
-
-
+├── Sales_Dashboard.xlsx
+├── README.md
+└── screenshots/
+    ├── dashboard.jpeg
+    ├── pivot1.jpeg
+    ├── pivot2.jpeg
+    └── pivot3.jpeg
 ---
 
 ## 📊 Dataset Description
